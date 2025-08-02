@@ -1,0 +1,9 @@
+
+Etapa 1 
+%sql
+ALTER VIEW VW_cleaned_laptop_data AS
+SELECT *,
+(latest_price * 0.064) AS latest_price_real,
+(old_price * 0.064) AS old_price_real,
+(discount / 100) AS discount_percentage
+FROM cleaned_laptop_data
