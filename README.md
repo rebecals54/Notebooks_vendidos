@@ -89,5 +89,3 @@ GROUP BY memory_type;
 * **Distribuição por tipo de memória (DDR3, DDR4, DDR5)**
   → Identificação da predominância tecnológica e impacto no valor final
 
-
-👉 Quer que eu adapte esse README para ficar com uma cara mais de **projeto acadêmico/portfólio técnico** (com foco em recrutadores), ou mais de **documentação de projeto prático** (explicando o passo a passo para quem acessar seu GitHub e quiser reproduzir)?
